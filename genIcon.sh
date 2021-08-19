@@ -1,0 +1,1 @@
+icongenie generate -m spa -i public/logo.png
