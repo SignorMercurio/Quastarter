@@ -1,8 +1,8 @@
 {
   "name": "quasar_starter_kit",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "description": "Opinionated Quasar v2 Starter Template",
+  "productName": "Quastarter",
   "author": "merc",
   "private": true,
   "scripts": {

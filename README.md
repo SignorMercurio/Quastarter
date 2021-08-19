@@ -1,6 +1,6 @@
 # Quastarter
 
-Opinionated Quasar Starter Template
+Opinionated Quasar v2 Starter Template
 
 ## Install the dependencies
 
